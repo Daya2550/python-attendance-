@@ -1,0 +1,12 @@
+science
+11-02-2024
+14:59
+Present Students : 
+1 :Dayanand Jagdale
+2 :Vishal Mote
+Total number of present : 2
+
+Absent students : 
+3 :Sagar 
+4 :Akash 
+Total number of Absent : 2
